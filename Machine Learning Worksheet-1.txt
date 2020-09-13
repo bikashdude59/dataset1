@@ -1,0 +1,31 @@
+1-c
+2-c
+3-c
+4-
+5-c
+6-b
+7-d
+8-b,c
+9-
+10-a
+
+
+11- Outliers are mailnly different from original data. Outliers values may be very high or very low.
+
+there are several technique to remove outliers like z score, PCA, IQR
+
+IQR=Q3-Q1
+  The difference betn Q3 and Q1 is known as IQR,
+
+Lower range is (Q1-1.5* IQR)
+
+higher range is (Q3+1.5 IQR)
+
+Values less than lower range or higher than hhigher range is known as outliers.
+
+12- in bagging same type of predictions are combined but in boosting dissferent types of predictions are combined.
+
+13- standardazition has mean 0 and standard deviation 1 where normalization has values betn 0 and 1
+
+14 in cross validation we test and train the model. In cross validation we get correct performance report of a model.
+in cross validation we use sub set of a data set.
